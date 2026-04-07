@@ -18,4 +18,4 @@ Simple clicker game created as a college project
 2. Install dependencies:
    `npm install`
 3. Start the app:
-   `npm start`
+   `npm run dev`
