@@ -14,8 +14,11 @@ Simple clicker game created as a college project
 
 ## 🛠️ How to run locally
 1. Clone the repository:
-   `git clone https://github.com/sukarapu/Lemon-clicker.git)`
+   ```bash
+   git clone https://github.com/sukarapu/Lemon-clicker.git
 2. Install dependencies:
-   `npm install`
-3. Start the app:
-   `npm run dev`
+   ```bash
+   npm install
+4. Start the app:
+   ```bash
+   npm run dev
