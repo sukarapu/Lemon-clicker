@@ -1,4 +1,6 @@
 import './App.css'
+import '@fontsource/boogaloo'
+import '@fontsource-variable/roboto-condensed/wght.css'
 import AppRouter from './components/AppRouter'
 import { useState } from 'react'
 import items from './config/items.js'
