@@ -2,6 +2,9 @@
 
 Simple clicker game created as a college project
 
+## 🔗 Live demo
+https://lemon-clicker-myapp.azurewebsites.net
+
 ## 🚀 Technologies
 * **React.js** (Functional components & Hooks)
 * **CSS3** (Custom styling)
@@ -19,6 +22,6 @@ Simple clicker game created as a college project
 2. Install dependencies:
    ```bash
    npm install
-4. Start the app:
+3. Start the app:
    ```bash
    npm run dev
